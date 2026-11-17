@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <!-- Logo Jangal : un « J » dont la barre du haut est un livre ouvert, et l'étoile du drapeau sénégalais. -->
+  <defs>
+    <linearGradient id="jangal-fond" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0a8f4a"/><stop offset=".55" stop-color="#12b76a"/><stop offset="1" stop-color="#0ea5a4"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="18" fill="url(#jangal-fond)"/>
+  <path d="M17 20.5c6.2-3.4 12.6-3.4 19 .6 6.4-4 12.8-4 19-.6" fill="none" stroke="#fff" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M36 21.5v17.5c0 7.8-4.7 12.3-11.5 12.3-4.4 0-7.8-2-9.8-5.5" fill="none" stroke="#fff" stroke-width="7" stroke-linecap="round"/>
+  <path d="M50 41.2l2.1 4.3 4.7.7-3.4 3.3.8 4.7-4.2-2.2-4.2 2.2.8-4.7-3.4-3.3 4.7-.7z" fill="#ffd23f"/>
+</svg>
